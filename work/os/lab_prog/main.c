@@ -2,6 +2,13 @@
 // main.c
 #include <stdio.h>
 #include "calculate.h"
+// comment
+// comment
+// comment
+// comment
+// comment
+// comment
+// comment
 int
 main (void)
 {
